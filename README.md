@@ -1,0 +1,3 @@
+# Dicee 🎲
+
+## First Flutter App :)
